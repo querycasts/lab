@@ -7,7 +7,7 @@ The **Querycasts Lab** is a software development environment for [Querycasts](ht
 Installing the Lab takes a few steps, but they're all pretty easy.
 
 1. Download and install the latest version of [VirtualBox](https://www.virtualbox.org/wiki/Downloads) for your operating system.
-1. Download the latest version of [Vagrant](http://downloads.vagrantup.com/) for your operating system.
+1. Download and install the latest version of [Vagrant](http://downloads.vagrantup.com/) for your operating system.
 1. Download the [Querycasts Lab](https://github.com/querycasts/lab/archive/master.zip).
 
 ## Usage
