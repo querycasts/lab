@@ -13,7 +13,7 @@ Vagrant.configure("2") do |config|
   config.ssh.forward_agent = true
   config.vm.provision :chef_solo do |chef|
     chef.recipe_url =
-      "http://assets.querycasts.com/lab/cookbooks.tar.gz"
+      "http://assets.querycasts.com/lab/cookbooks/lab-0.0.1.tar.gz"
     chef.add_recipe("querycasts-lab")
   end
 end
