@@ -6,16 +6,10 @@ The **Querycasts Lab** is a software development environment for [Querycasts](ht
 
 Installing the Lab takes a few steps, but they're all pretty easy.
 
-1. Download and install **VirtualBox** version 4.2.6 for your operating system:
-  * [Windows](http://download.virtualbox.org/virtualbox/4.2.6/VirtualBox-4.2.6-82870-Win.exe)
-  * [Mac OS X](http://download.virtualbox.org/virtualbox/4.2.6/VirtualBox-4.2.6-82870-OSX.dmg)
-  * [Solaris](http://download.virtualbox.org/virtualbox/4.2.6/VirtualBox-4.2.6-82870-SunOS.tar.gz)
-  * See the [Linux](http://download.virtualbox.org/virtualbox/4.2.6/VirtualBox-4.2.6-82870-SunOS.tar.gz) downloads page to find a download link for your Linux distribution
-1. Download and install **Vagrant** version 1.0.6:
-  * [Windows](http://files.vagrantup.com/packages/476b19a9e5f499b5d0b9d4aba5c0b16ebe434311/Vagrant.msi)
-  * [Mac OS X](http://files.vagrantup.com/packages/476b19a9e5f499b5d0b9d4aba5c0b16ebe434311/Vagrant.dmg)
-  * See the [Vagrant downloads](http://downloads.vagrantup.com/tags/v1.0.6) page to find a download link for your Linux distribution
-1. Download the **Querycasts Lab** for all operating systems.
-  * [Querycasts Lab](https://github.com/querycasts/lab/archive/master.zip)
+1. Download and install the latest version of [VirtualBox](https://www.virtualbox.org/wiki/Downloads) for your operating system.
+1. Download the latest version of [Vagrant](http://downloads.vagrantup.com/) for your operating system.
+1. Download the [Querycasts Lab](https://github.com/querycasts/lab/archive/master.zip).
 
-TODO: Complete the installation guide by describing how to navigate to the Lab in the terminal and boot the virtual machine.
+## Usage
+
+TODO: Explain how to navigate to the directory and start Vagrant on both *nix and Windows.
